@@ -67,4 +67,4 @@ try:
 except Exception as e:
     errorMessage = 'Failed! ' + str(e)
     sendTelegramMessage(errorMessage)
-    print('Failed! Error: ' + str(e))
+    print(errorMessage)
