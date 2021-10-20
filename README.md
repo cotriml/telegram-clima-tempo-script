@@ -14,7 +14,7 @@ Create a .env file on root directory with following environment variables (requi
 `CLIMATEMPOHOSTNAME=http://apiadvisor.climatempo.com.br`\
 `TELEGRAMTOKEN=bot[telegram-token-here]`\
 `TELEGRAMCHATID=[telegram-chat-id-here]`\
-`TELEGRAMHOSTNAME=https://api.telegram.org`\
+`TELEGRAMHOSTNAME=https://api.telegram.org`
 
  > All of these values are required. 
 
